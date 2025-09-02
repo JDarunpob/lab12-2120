@@ -45,7 +45,7 @@ export default function Sidebar() {
       <Box p={10}>
         <Group>
           <Indicator color="red" position="bottom-end" size={20} withBorder> 
-            <Avatar src="public/picpro.jpg" radius={"xl"} >
+            <Avatar src="picpro.jpg" radius={"xl"} >
             </Avatar>
           </Indicator>
           <Text>User : Darunpob : Student</Text>
